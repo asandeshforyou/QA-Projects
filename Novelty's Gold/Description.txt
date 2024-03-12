@@ -1,0 +1,6 @@
+Novelty Technology's project:GOLD software
+Test cases and test plan for the following modules:
+		 -Log in 
+		 -users module
+
+

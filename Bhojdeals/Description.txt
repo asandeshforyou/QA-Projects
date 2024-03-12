@@ -1,0 +1,8 @@
+Test cases for the BHOJ deals mobile application covering the following modules: 
+Placement of order and all payment methods 
+-Cash on delivery 
+-Fonepay 
+-E-Sewa 	
+-Connect IPS 
+-Khalti 
+-Credit/Debit Card and IME Pay
